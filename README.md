@@ -6,3 +6,9 @@ In the last campaign, the bank reached out to 5000 customers out of which 480 cu
 
 ![image](https://github.com/ksrcv/HBFC-Bank-PL_Project/assets/118098160/751fdace-4652-4951-8330-36235b3f54ed)
 
+
+The Dataset, Excel sheet with all the analysis and the Powerpoint which contains all the findings are provided in the repository
+
+here's is the summary of my findings:
+![image](https://github.com/ksrcv/HBFC-Bank-PL_Project/assets/118098160/7bca79d1-a8be-4473-a63c-5403bc16f514)
+
